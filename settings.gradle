@@ -1,0 +1,4 @@
+// pluginManagement block is removed to avoid conflicts with buildscript in build.gradle
+
+rootProject.name = 'CUSTOMER'
+include ':app'
